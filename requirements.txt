@@ -1,0 +1,29 @@
+# Web framework (backend API)
+fastapi
+uvicorn
+
+# Frontend (UI)
+streamlit
+plotly
+pandas
+requests
+
+# Machine Learning / Forecasting
+scikit-learn
+numpy
+pmdarima
+
+# Blockchain / Web3 interaction
+web3
+eth-account
+pycryptodome
+
+# Data validation & modeling
+pydantic
+
+# Utilities
+python-dotenv
+
+# Optional (for file uploads, CORS, etc.)
+aiofiles
+python-multipart
